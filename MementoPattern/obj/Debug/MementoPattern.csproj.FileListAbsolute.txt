@@ -1,0 +1,6 @@
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\obj\Debug\MementoPattern.csproj.AssemblyReference.cache
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\obj\Debug\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Users\Arda\RiderProjects\Solution1\MementoPattern\obj\Debug\MementoPattern.pdb
